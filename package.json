@@ -1,0 +1,8 @@
+{
+  "name": "anonymous-santa",
+  "version": "0.0.1",
+  "devDependencies": {
+    "request": "^2.40.0",
+    "underscore": "^1.7.0"
+  }
+}
